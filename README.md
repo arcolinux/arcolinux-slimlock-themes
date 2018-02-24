@@ -1,0 +1,5 @@
+# ArcoLinux Slimlock Theme
+
+
+
+
