@@ -4,7 +4,7 @@ A wooden slimlock theme
 
 Install slim from 'extra" and the slim themes from the AUR.
 
-Copy these files to /usr/share/slim/themes/archmerge/
+Copy these files to /usr/share/slim/themes/arcolinux/
 
 Some elements borrowed from http://fav.me/d8huxit
 
